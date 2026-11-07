@@ -1,7 +1,7 @@
 import TechnologyBody from "../components/TechnologyBody"
 import data from "../data/data.json"
-import launchVehicleImgLaptop from "../assets/technology/image-Space-capsule-portrait.jpg"
-import launchVehicleImgPhone from "../assets/technology/image-Space-capsule-landscape.jpg"
+import launchVehicleImgLaptop from "../assets/technology/image-space-capsule-portrait.jpg"
+import launchVehicleImgPhone from "../assets/technology/image-space-capsule-landscape.jpg"
 
 
 function SpaceCapsule() {
