@@ -3,7 +3,7 @@ import Stars from './Stars';
 import bgDesktop from '../assets/technology/background-technology-desktop.jpg'
 import bgTablet from '../assets/technology/background-technology-tablet.jpg'
 import bgMobile from '../assets/technology/background-technology-mobile.jpg'
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import { NavLink, useNavigate } from "react-router-dom";
 import { useSwipeable } from 'react-swipeable';
 
