@@ -1,5 +1,5 @@
-import Header from './header';
-import Stars from './stars';
+import Header from './Header';
+import Stars from './Stars';
 import bgDesktop from '../assets/crew/background-crew-desktop.jpg'
 import bgTablet from '../assets/crew/background-crew-tablet.jpg'
 import bgMobile from '../assets/crew/background-crew-mobile.jpg'
