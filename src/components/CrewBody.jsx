@@ -6,7 +6,7 @@ import bgMobile from '../assets/crew/background-crew-mobile.jpg'
 import {  NavLink, useNavigate   } from "react-router-dom";
 import LinkStyleCrew from './LinkStyleCrew';
 import crewImg from './CrewImg';
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import { useSwipeable } from 'react-swipeable';
 
 function Crew({ name, role, bio , image = crewImg(name), nextPage, previosPage }) {
