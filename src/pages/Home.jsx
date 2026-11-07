@@ -1,5 +1,4 @@
 import '@fontsource/barlow';
-import Header from '../components/header';
 import Header from '../components/Header';
 import Stars from '../components/Stars';
 import bgMobile from '../assets/home/background-home-mobile.jpg';
