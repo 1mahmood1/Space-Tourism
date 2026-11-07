@@ -21,7 +21,6 @@ function Home() {
 
       <Stars starsNum={250}/>
       <Header />
-      <Body />
     </>
   )
 }
