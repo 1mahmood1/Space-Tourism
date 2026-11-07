@@ -3,7 +3,7 @@ import Stars from './Stars';
 import bgDesktop from '../assets/destination/background-destination-desktop.jpg'
 import bgTablet from '../assets/destination/background-destination-tablet.jpg'
 import bgMobile from '../assets/destination/background-destination-mobile.jpg'
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import LinkStyleHeader from './LinkStyleHeader';
 import {  NavLink, useNavigate   } from "react-router-dom";
 import PlanetImg from './PlanetImg';
