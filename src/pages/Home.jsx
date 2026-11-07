@@ -1,7 +1,7 @@
 import '@fontsource/barlow';
 import Header from '../components/header';
-import Body from '../components/HomeBody';
-import Stars from '../components/stars';
+import Header from '../components/Header';
+import Stars from '../components/Stars';
 import bgMobile from '../assets/home/background-home-mobile.jpg';
 import bgTablet from '../assets/home/background-home-tablet.jpg';
 import bgDesktop from '../assets/home/background-home-desktop.jpg';
