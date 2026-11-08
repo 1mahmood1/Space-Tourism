@@ -38,7 +38,7 @@ function Destination({ planet, description, distance, travel, nextPage, previosP
                     draggable={false}
                 />
             </picture>
-            <Stars starsNum={350}/>
+            <Stars starsNum={120}/>
             <Header />
 
             <div className='w-full max-w-275 mx-auto px-6 mt-6 flex justify-center lg:justify-start md:mt-10'>    
