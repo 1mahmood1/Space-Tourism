@@ -6,7 +6,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/Space-Tourism">
+    <BrowserRouter basename="/mahmood-space-tourism.vercel.app">
       <App />
     </BrowserRouter>
   </StrictMode>,
