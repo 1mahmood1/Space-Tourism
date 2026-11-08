@@ -1,10 +1,11 @@
+
 import '@fontsource/barlow';
 import Header from '../components/Header';
 import Stars from '../components/Stars';
+import HomeBody from '../components/HomeBody';
 import bgMobile from '../assets/home/background-home-mobile.jpg';
 import bgTablet from '../assets/home/background-home-tablet.jpg';
 import bgDesktop from '../assets/home/background-home-desktop.jpg';
-import HomeBody from '../components/HomeBody.jsx'
 
 function Home() {
   return (
@@ -22,8 +23,9 @@ function Home() {
 
       <Stars starsNum={250}/>
       <Header />
+      <HomeBody />
     </>
   )
 }
 
-export default Home
+export default Home;
