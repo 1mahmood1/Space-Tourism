@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   base: process.env.GITHUB_ACTIONS === 'true'
-    ? '/Space-Tourism/'
+    ? '/mahmood-space-tourism.vercel.app/'
     : '/',
   plugins: [
     react(),
