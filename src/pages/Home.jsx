@@ -21,7 +21,7 @@ function Home() {
         />
       </picture>
 
-      <Stars starsNum={250}/>
+      <Stars starsNum={100}/>
       <Header />
       <HomeBody />
     </>
