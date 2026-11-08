@@ -11,6 +11,9 @@ import CrewVictorGlover from './pages/CrewVictorGlover';
 import TechnologyLaunchVehicle from './pages/TechnologyLaunchVehicle';
 import TechnologySpaceport from './pages/TechnologySpaceport';
 import TechnologySpaceCapsule from './pages/TechnologySpaceCapsule'
+import '@fontsource/bellefair'
+import '@fontsource/barlow-condensed'
+
 
 function App() {
 
