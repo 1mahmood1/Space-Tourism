@@ -4,9 +4,6 @@ import react from '@vitejs/plugin-react'
 // إذا تستخدم tailwind plugin أبقِه كما هو
 
 export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(),
-  ],
   base: '/Space-Tourism/',
+  plugins: [react(), tailwindcss()],
 })
