@@ -38,7 +38,7 @@ function Crew({ name, role, bio , image = crewImg(name), nextPage, previosPage }
                     draggable={false}
                 />
             </picture>
-            <Stars starsNum={150}/>
+            <Stars starsNum={75}/>
             <Header />
 
             <div className="flex justify-center" {...swipeHandler}>
