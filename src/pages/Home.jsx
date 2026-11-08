@@ -4,6 +4,7 @@ import Stars from '../components/Stars';
 import bgMobile from '../assets/home/background-home-mobile.jpg';
 import bgTablet from '../assets/home/background-home-tablet.jpg';
 import bgDesktop from '../assets/home/background-home-desktop.jpg';
+import HomeBody from '../components/HomeBody.jsx'
 
 function Home() {
   return (
