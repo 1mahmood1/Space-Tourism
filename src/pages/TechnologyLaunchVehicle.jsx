@@ -1,7 +1,7 @@
 import TechnologyBody from "../components/TechnologyBody"
 import data from "../data/data.json"
-import launchVehicleImgLaptop from "../assets/technology/image-launch-vehicle-portrait.webp"
-import launchVehicleImgPhone from "../assets/technology/image-launch-vehicle-landscape.webp"
+import launchVehicleImgLaptop from "../assets/technology/image-launch-vehicle-portrait.jpg"
+import launchVehicleImgPhone from "../assets/technology/image-launch-vehicle-landscape.jpg"
 import SwipeHint from "../components/SwipeHint"
 
 function TechnologyLaunchVehicle() {
