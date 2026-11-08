@@ -46,7 +46,7 @@ function Technology({ name, description, imagePortrait, imageLandscape, nextPage
                 />
             </picture>
 
-            <Stars starsNum={150} />
+            <Stars starsNum={100} />
             <Header />
 
             <div className="w-full max-w-360 mx-auto flex-1 flex flex-col" {...swipeHandler}>
