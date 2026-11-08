@@ -1,7 +1,7 @@
-import moonImg from '../assets/destination/image-moon.png'
-import marsImg from '../assets/destination/image-mars.png'
-import europaImg from '../assets/destination/image-europa.png'
-import titanImg from '../assets/destination/image-titan.png'
+import moonImg from '../assets/destination/image-moon.webp'
+import marsImg from '../assets/destination/image-mars.webp'
+import europaImg from '../assets/destination/image-europa.webp'
+import titanImg from '../assets/destination/image-titan.webp'
 
 const images = {
     Moon: moonImg,
