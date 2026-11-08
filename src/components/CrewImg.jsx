@@ -1,6 +1,6 @@
-import DouglasHurleyImg from "../assets/crew/image-douglas-hurley.png";
-import MarkShuttleworthImg from "../assets/crew/image-mark-shuttleworth.png";
-import VictorGloverImg from "../assets/crew/image-victor-glover.png";
+import DouglasHurleyImg from "../assets/crew/image-douglas-hurley.webp";
+import MarkShuttleworthImg from "../assets/crew/image-mark-shuttleworth.webp";
+import VictorGloverImg from "../assets/crew/image-victor-glover.webp";
 
 const names = {
     "Douglas Hurley": DouglasHurleyImg,
